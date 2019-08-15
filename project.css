@@ -1,0 +1,40 @@
+h1{
+   font-family: 'WaltographRegular';
+   font-weight: normal;
+   font-style: normal;
+   text-align: center;
+   color: #F4ACB7;
+}
+#art{
+  margin: auto;
+}
+td{
+  height: 200px;
+  padding: 100px;
+  border: 0px solid white;
+}
+/* #05668D,#028090,#00A896,#02C39A, #F0F3BD */
+#col1{
+  background-color: #05668D;
+}
+#col2{
+background-color: #028090;
+}
+#col3{
+  background-color: #00A896;
+}
+#col4{
+  background-color: #02C39A;
+}
+#col5{
+  background-color: #F0F3BD;
+}
+
+.para{
+  font-family: 'WaltographRegular';
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  font-size: 26px;
+  color: #69306D;
+}
